@@ -1,4 +1,4 @@
-# EMasRouter: Learning to Construct Heterogeneous Collaborative Multi-Agent Systems
+# SC-MAS: Social Capital-driven Construction of Heterogeneous Multi-Agent Systems
 
 ## Method Overview
 
